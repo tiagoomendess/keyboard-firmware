@@ -37,11 +37,11 @@ Layer<R,C> layers[] = {
     l2,
     "",
      {
-      {  0,  f1,  f2,  f3,  f4,  f5,  f6,  f7,  f8,  f9, f10, f11, f12,   0, prt},
-      {  0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, ins},
-      {  0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, ppa, pgu},
-      {  0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, rsh, vup, pgd},
-      {  0, rgu,   0,   0,   0,   0, mut,   0,   0, mnu,  fn,  l3, ptk, vdn, ntk},
+      {esc,  f1,  f2,  f3,  f4,  f5,  f6,  f7,  f8,  f9, f10, f11, f12,   0, prt},
+      {tab,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, ins},
+      {cap,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, ppa, pgu},
+      {lsh,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0, rsh, vup, pgd},
+      {ctl, rgu, lal,   0,   0,   0, mut,   0,   0, mnu,  fn,  l3, ptk, vdn, ntk},
     },
     { {fn,  bks}, {lct, esc}, {rct, ent} }
   },
